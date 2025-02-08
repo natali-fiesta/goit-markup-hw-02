@@ -25,7 +25,7 @@ button {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -82,6 +82,7 @@ button {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #fff;
 }
 .hero-btn {
@@ -130,12 +131,13 @@ button {
   background-color: #f4f4fd;
 }
 
-our-team-title {
+.our-team-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  background-color: #fff;
 }
 .our-team-item {
 }
@@ -155,6 +157,28 @@ our-team-title {
   color: #434455;
 }
 /* #endregion Our Team */
+
+/* #region Portfolio */
+.port-team-title {
+}
+.port-team-item {
+}
+.port-item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+.port-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* #endregion Portfolio */
 
 /* #region Footer */
 .footer {
