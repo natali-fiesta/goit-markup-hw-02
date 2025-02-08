@@ -131,7 +131,9 @@ button {
 .our-team {
   background-color: #f4f4fd;
 }
-
+.our-team-item {
+  background-color: #ffffff;
+}
 .our-team-title {
   font-weight: 700;
   font-size: 36px;
@@ -139,12 +141,13 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
-  background-color: #ffffff;
+
   text-transform: capitalize;
 }
-.our-team-item {
-  background-color: #ffffff;
+
+.our-list {
 }
+
 .our-item-title {
   font-weight: 500;
   font-size: 20px;
