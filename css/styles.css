@@ -137,7 +137,9 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  background-color: #fff;
+  text-align: center;
+  background-color: #ffffff;
+  text-transform: capitalize;
 }
 .our-team-item {
 }
@@ -160,6 +162,14 @@ button {
 
 /* #region Portfolio */
 .port-team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  background-color: #ffffff;
+  text-transform: capitalize;
 }
 .port-team-item {
 }
@@ -168,7 +178,6 @@ button {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-
   color: #2e2f42;
 }
 .port-text {
