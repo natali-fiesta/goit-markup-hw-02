@@ -161,6 +161,10 @@ button {
 /* #endregion Our Team */
 
 /* #region Portfolio */
+.portfolio {
+  background-color: #ffffff;
+}
+
 .port-team-title {
   font-weight: 700;
   font-size: 36px;
